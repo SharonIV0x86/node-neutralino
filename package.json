@@ -1,5 +1,5 @@
 {
-  "name": "@neutralinojs-contrib/nodeneutralino",
+  "name": "@neutralinojs-contrib/node-neutralino",
   "package-name": "node-neutralino",
   "version": "2.0.1",
   "description": "Wrapper project for Neutralinojs backend",
